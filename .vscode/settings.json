@@ -1,0 +1,15 @@
+{
+    "files.associations": {
+        "algorithm": "cpp",
+        "numeric": "cpp",
+        "iterator": "cpp",
+        "chrono": "cpp",
+        "ctime": "cpp",
+        "cstdio": "cpp",
+        "cstdint": "cpp",
+        "cstring": "cpp",
+        "stdexcept": "cpp",
+        "fstream": "cpp",
+        "locale": "cpp"
+    }
+}
